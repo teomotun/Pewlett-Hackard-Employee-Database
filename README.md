@@ -4,7 +4,7 @@
 
 ## Background
 
-Carried out a research project on employees of the Hewlett Packard corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
+Carried out a research project on employees of the Hewlett Packard corporation from the 1980s and 1990s. All that remains of the database of employees from that period are six CSV files.
 
 I performed the following:
 
