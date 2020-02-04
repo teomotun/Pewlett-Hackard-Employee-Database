@@ -12,7 +12,7 @@ I performed the following:
     Sketched out an ERD of the tables using [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
 2. Data Engineering:
-    Create a table schema for each of the six CSV files and imported each CSV file into the corresponding SQL table.
+    Created a table schema for each of the six CSV files and imported each CSV file into the corresponding SQL table.
 
 3. Data Analysis:
     Analyzed the data to get the following:
