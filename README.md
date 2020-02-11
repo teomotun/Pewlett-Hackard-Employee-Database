@@ -4,7 +4,7 @@
 
 ## Background
 
-Carried out a research project on employees of the Hewlett Packard corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
+Carried out a research project on employees of the Hewlett Packard corporation from the 1980s and 1990s. All that remains of the database of employees from that period are six CSV files.
 
 I performed the following:
 
@@ -12,7 +12,7 @@ I performed the following:
     Sketched out an ERD of the tables using [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
 2. Data Engineering:
-    Create a table schema for each of the six CSV files and imported each CSV file into the corresponding SQL table.
+    Created a table schema for each of the six CSV files and imported each CSV file into the corresponding SQL table in Postgres.
 
 3. Data Analysis:
     Analyzed the data to get the following:
